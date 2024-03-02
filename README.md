@@ -8,7 +8,7 @@ This project is a clone of the Spotify web player, built using HTML and CSS.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
