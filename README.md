@@ -1,6 +1,6 @@
 # Spotify Clone
 
-This project is a clone of the Spotify web player, built using HTML and CSS.
+The Spotify clone project is a web application designed to replicate the functionality and user interface of the Spotify web player. It is built using HTML and CSS to create a responsive and interactive music streaming experience. Users can browse through a collection of playlists, artists, and albums, search for specific songs or artists, and play music with a built-in player.
 
 ## Table of Contents
 
